@@ -1,4 +1,5 @@
 import selfstudy
+
 def my_college_life(study):
     study = replace_with_selfstudy(study)
     study.optimize()
