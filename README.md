@@ -7,3 +7,4 @@ def my_college_life(study):
 
 my_college_life(HUST AIA Automation)
 ```
+[contact me](about.md)
