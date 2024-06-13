@@ -449,7 +449,7 @@ Fig.\ref{fig:SadScientist}.
 ### 指定图像文件搜索路径
 1. LATEX 预设路径是当前目录。
 
-2. `\graphicspath{{path1}{path2}{path3}...}`
+2. `\graphicspath{paths}` % surround a path with {}
 
 3. `\graphicspath{{images/}}` 指定搜索路径为工作目录下的 images 目录
 
