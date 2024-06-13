@@ -10,3 +10,5 @@ my_college_life(HUST AIA Automation)
 [contact me](about.md)
 
 [for fun](test.md)
+
+[see my latest study](LaTeX入门.md)
