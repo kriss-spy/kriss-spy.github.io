@@ -12,3 +12,5 @@ my_college_life(HUST AIA Automation)
 [for fun](test.md)
 
 [see my latest study](latex入门.md)
+
+updated 6/13
