@@ -15,6 +15,6 @@ my_college_life(HUST AIA Automation)
 
 [for fun](test.md)
 
-[see my latest study](latex入门.html)
+[see my latest study](https://blog.csdn.net/2301_81944256?spm=1011.2415.3001.5343)
 
 updated 6/13
