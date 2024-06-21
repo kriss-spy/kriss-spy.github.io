@@ -15,7 +15,7 @@ my_college_life(HUST AIA Automation)
 
 [contact me](about.md)
 
-[for fun](test.md)
+[for fun](for-fun.md)
 
 [see my latest study](https://blog.csdn.net/2301_81944256?spm=1011.2415.3001.5343)
 
