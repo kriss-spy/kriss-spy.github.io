@@ -5,6 +5,7 @@ permalink: https://kriss-spy.github.io/test
 -->
 # this page is for fun
 ## code for fun
+crazy study mode:
 ```bash
 su crazy-study
 cd /brain/exam-prepare/organic-chemistry
