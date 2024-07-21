@@ -19,4 +19,6 @@ my_college_life(HUST AIA Automation)
 
 [see my latest study](https://blog.csdn.net/2301_81944256?spm=1011.2415.3001.5343)
 
+[see my obsidian digital garden](https://my-digital-garden-kriss-spys-projects.vercel.app/)
+
 updated 6/21
